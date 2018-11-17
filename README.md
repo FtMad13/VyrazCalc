@@ -1,2 +1,0 @@
-# VyrazCalc
-Created with CodeSandbox
